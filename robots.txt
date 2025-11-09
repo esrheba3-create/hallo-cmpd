@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hallo-cmpd.pages.dev/sitemap.xml
